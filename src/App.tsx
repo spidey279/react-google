@@ -1,4 +1,3 @@
-import React from "react";
 import { PiFlaskFill } from "react-icons/pi";
 import { CgProfile } from "react-icons/cg";
 import { CgMenuGridO } from "react-icons/cg";
